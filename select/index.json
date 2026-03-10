@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Dreamy Love",
+  "base_artist": "RiN",
+  "createdAt": "2026-03-10T22:31:15.799006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreamy Love",
+      "artist": "Hyolyn",
+      "has_synced": true,
+      "path": "select/01_Dreamy_Love_Hyolyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamy Love",
+      "artist": "Tan",
+      "has_synced": true,
+      "path": "select/02_Dreamy_Love_Tan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamy Love",
+      "artist": "Izaid",
+      "has_synced": true,
+      "path": "select/03_Dreamy_Love_Izaid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tình Mơ (Dreamy Love)",
+      "artist": "Phương Tâm",
+      "has_synced": true,
+      "path": "select/04_Tình_Mơ_(Dreamy_Love)_Phương_Tâm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreamy Love",
+      "artist": "RiN",
+      "has_synced": false,
+      "path": "select/pl_01_Dreamy_Love_RiN.txt"
+    }
+  ]
+}
